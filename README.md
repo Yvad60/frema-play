@@ -1,2 +1,3 @@
-# frema-play
-a playground for practicing CSS animation with Framer motion package
+## Project one
+
+Template project created with Next and Tailwind CSS
